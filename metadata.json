@@ -1,0 +1,8 @@
+{
+  "name": "Smart DND",
+  "description": "Smart DND & Background App Killer with one-tap activation, DND automation, background process management, and RAM analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
